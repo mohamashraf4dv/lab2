@@ -11,5 +11,4 @@
     #for test branch :-
         #remotely
             --> git push origin :test
-        #locally
             --> git branch -d test
